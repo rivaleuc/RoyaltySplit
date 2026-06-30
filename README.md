@@ -2,6 +2,8 @@
 
 **Revenue split by consensus-scored contribution, on GenLayer.**
 
+[![GenLayer](https://img.shields.io/badge/GenLayer-Bradbury-ff4d6d)](https://genlayer.com) [![chainId](https://img.shields.io/badge/chainId-4221-4dd0e1)](https://docs.genlayer.com) [![contract](https://img.shields.io/badge/contract-Python%20GenVM-8a63d2)](https://docs.genlayer.com) [![tests](https://img.shields.io/badge/tests-5%2F5%20passing-3fb950)](tests) [![frontend](https://img.shields.io/badge/frontend-React%20%2B%20Vite%20%2B%20genlayer--js-22a6f2)](app) [![live](https://img.shields.io/badge/live-royaltysplit.pages.dev-f59e0b)](https://royaltysplit.pages.dev) [![License](https://img.shields.io/badge/license-MIT-2dd4bf)](LICENSE)
+
 Co-creators register a work and log their contributions (each with evidence). `settle` is payable:
 every validator independently scores each contribution's weight from its evidence, accepted only when
 they agree on the relative weighting (comparative equivalence — the top contributor + scores within a
