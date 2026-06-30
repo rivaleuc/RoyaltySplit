@@ -11,6 +11,7 @@ margin). The incoming revenue is split proportionally to the agreed scores and p
 The verb is **"score contributions → proportional payout"** — a fair split decided by consensus over
 evidence, distinct from a fixed escrow or a single winner.
 
+- **Live demo:** https://royaltysplit.pages.dev
 - **Contract (Bradbury, chain 4221):** `0xf29E70fA0C70B4f9634398F6AC9B718c2C40E474`
 - **Deployed from:** `rivale` (`0xc388…51A44`)
 - **Explorer:** https://explorer-bradbury.genlayer.com/contract/0xf29E70fA0C70B4f9634398F6AC9B718c2C40E474
